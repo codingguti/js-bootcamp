@@ -29,4 +29,3 @@ console.log(`${person.name} is ${person.age} years old and lives in ${person.loc
 person.age = person.age + 1
 
 console.log(`${person.name} is ${person.age} years old and lives in ${person.location}.`)
-
